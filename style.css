@@ -18,7 +18,8 @@ li {
 }
 
 body {
-  background: linear-gradient(to top, #a9a9a9, #fff);
+ /* background: linear-gradient(to top, #a9a9a9, #fff);*/
+  background: white;
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
